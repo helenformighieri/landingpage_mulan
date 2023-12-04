@@ -5,8 +5,5 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2"
-  },
-  "scripts": {
-    "build": "gulp"  // ou "npm run algum-outro-comando-de-build" que você usa
-  }  
-}
+  }
+}  
